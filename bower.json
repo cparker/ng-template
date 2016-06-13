@@ -1,0 +1,24 @@
+{
+  "name": "ng-template",
+  "description": "simple angular template",
+  "main": "index.js",
+  "authors": [
+    "cp@cjparker.us"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/cparker",
+  "moduleType": [],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.5.6",
+    "moment": "^2.13.0",
+    "underscore": "^1.8.3"
+  }
+}
